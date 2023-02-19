@@ -1,6 +1,6 @@
 # ARDUINO
 
-### Circuit diagrams for : Blink and Fade  
+### Blink and Fade [CIRCUIT DIAGRAMS] 
 ![circuit](https://user-images.githubusercontent.com/122863439/219934493-e9370026-d9fa-4268-923a-d30e656cd880.png)
 
 ### Ultrasonic Range sensor
